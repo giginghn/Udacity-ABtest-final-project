@@ -20,8 +20,8 @@ The difference for the gross conversion is practically significant and negative.
 The difference for the net conversion is not statistically significant. It means the absence of serious financial losses.
 Negative results of the experiment:
 
-The interval for the difference in the case of the net conversion includes negative numbers. Therefore, the team has a risk to decrease incomes.
-We have not gathered enough data to draw conclusions about the retention and because of this we can not evaluate correctly the difference between the control and experimental groups for a number of students who were disappointed in studying during the free period. Consequently, we do not know enrolled users would be disappointed in the learning process less and make more payments or would not.
+- The interval for the difference in the case of the net conversion includes negative numbers. Therefore, the team has a risk to decrease incomes.
+- We have not gathered enough data to draw conclusions about the retention and because of this we can not evaluate correctly the difference between the control and experimental groups for a number of students who were disappointed in studying during the free period. Consequently, we do not know enrolled users would be disappointed in the learning process less and make more payments or would not.
 
 ## Adjustment to the test
 
@@ -32,3 +32,16 @@ I would suggest these possible changes to the proposed experiment.
 - Replace the visualization message by the video with an explanation of successful learning strategies based on statistics of the particular site or by the input test for the course level recommendations exactly for this user.
 - In order to avoid the negative psychological effect or cut the extremely talented part of the audience which is able to pass the course without spending a lot of time to study, all changes should be only informative and recommendatory.
 - Recommendations in the videos or leveled tests should have the most practical character that is suitable for this course.
+
+
+## Reference
+
+- The final project: https://classroom.udacity.com/courses/ud257/lessons/4126079196/concepts/42072285530923
+- The project instructions: https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub?embedded=True
+- The template format: https://docs.google.com/document/d/16OX2KDSHI9mSCriyGIATpRGscIW2JmByMd0ITqKYvNg/edit
+- The final project results: https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
+- The online calculator "Sample size": http://www.evanmiller.org/ab-testing/sample-size.html
+- The online calculator "Sign and binomial test": http://graphpad.com/quickcalcs/binomial1.cfm
+- Binomial distribution visualisation: http://databits.io/bits/fbmx-binomial-distribution
+- Simple interactive statistical analysis: http://www.quantitativeskills.com/sisa/calculations/bonhlp.htm
+
